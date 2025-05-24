@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import GameBoard from "./components/GameBoard";
+import GameBoard from "./componenets/GameBoard";
 
 class App extends Component {
   render() {
